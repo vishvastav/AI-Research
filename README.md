@@ -4,7 +4,7 @@ A practical, project-driven curriculum for QA engineers learning to use LLMs as 
 Each chapter pairs concept material with a hands-on project, a prompt template, and runnable code where applicable.
 
 - **Author:** Vishal Srivastava — Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
+- **Website:** 
 - **LinkedIn:**
 
 ---
