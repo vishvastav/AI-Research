@@ -153,5 +153,3 @@ You can read it linearly (chapter 01 → 02) or jump straight to a project:
 `dfe2653` — chapter 02 prompt engineering with RICE-POT framework + Selenium project.
 
 ---
-
-Made by [Vishal Srivastava](https://thetestingacademy.com/) for The Testing Academy.
